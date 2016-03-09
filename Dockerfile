@@ -1,2 +1,2 @@
-FROM google/nodejs-runtime
+FROM node
 EXPOSE 3000
