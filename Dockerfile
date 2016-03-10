@@ -1,2 +1,2 @@
-FROM node
+FROM node:argon
 EXPOSE 3000
